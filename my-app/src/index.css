@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+    margin: 0;
+    font-family: "Courier New", Courier, monospace ;
+    background-image: linear-gradient(to right, #226ad8, #2667c1, #2e62a9, #385e92, #40587a);
+  }
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
